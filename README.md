@@ -19,7 +19,7 @@ All the below queries were run on the *20 newsgroups* dataset.
 
 Time taken to fetch results: 12.5340821743 seconds
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Word Graph for Politics based query](https://github.com/aneeshbose/Word-Graph-based-Semantic-Query-Search/blob/main/imgs/subgraph_politics.png?raw=true)
 
 
 | Query                            	| Word Graph with Cosine Ranking      	| BM25 Ranking                        	| Euclidean Ranking                               	|
@@ -37,6 +37,8 @@ Time taken to fetch results: 12.5340821743 seconds
 
 Time taken to fetch results: 23.7800240517 seconds
 
+![Word Graph for Space based query](https://github.com/aneeshbose/Word-Graph-based-Semantic-Query-Search/blob/main/imgs/subgraph_sci_space.png?raw=true)
+
 | Query                       	| Word Graph with Cosine Ranking             	| BM25 Ranking                               	| Euclidean Ranking                               	|
 |-----------------------------	|--------------------------------------------	|--------------------------------------------	|-------------------------------------------------	|
 | wheel shaft motorcycle gear 	| 20news-bydate-train/rec.motorcycles/104290 	| 20news-bydate-train/rec.autos/102764       	| 20news-bydate-train/rec.motorcycles/104582      	|
@@ -51,3 +53,5 @@ Time taken to fetch results: 23.7800240517 seconds
 |                             	| 20news-bydate-train/rec.motorcycles/104497 	| 20news-bydate-train/rec.motorcycles/104814 	| 20news-bydate-train/talk.politics.mideast/76067 	|
 
 Time taken to fetch results: 13.1146659851 seconds
+
+![Word Graph for Sports based query](https://github.com/aneeshbose/Word-Graph-based-Semantic-Query-Search/blob/main/imgs/subgraph_rec_motorcycle.png?raw=true)
