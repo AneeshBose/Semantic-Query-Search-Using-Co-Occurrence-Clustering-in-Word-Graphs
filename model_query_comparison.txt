@@ -1,0 +1,226 @@
+vote politics elections
+
+Cosine Ranking
+20news-bydate-train/talk.politics.misc/178406
+20news-bydate-train/talk.politics.guns/54690
+20news-bydate-train/talk.politics.mideast/75929
+20news-bydate-train/rec.motorcycles/104724
+20news-bydate-train/talk.politics.misc/177001
+20news-bydate-train/rec.motorcycles/104367
+20news-bydate-train/talk.politics.misc/177004
+20news-bydate-train/talk.politics.mideast/76532
+20news-bydate-train/talk.politics.misc/178505
+20news-bydate-train/talk.politics.guns/54187
+BM25 Ranking
+20news-bydate-train/talk.politics.misc/178406
+20news-bydate-train/talk.politics.mideast/75929
+20news-bydate-train/talk.politics.misc/177001
+20news-bydate-train/rec.motorcycles/104367
+20news-bydate-train/talk.politics.guns/54690
+20news-bydate-train/rec.motorcycles/104724
+20news-bydate-train/talk.politics.guns/54314
+20news-bydate-train/talk.politics.guns/54187
+20news-bydate-train/talk.politics.misc/176944
+20news-bydate-train/talk.politics.guns/54684
+Euclidean Ranking
+20news-bydate-train/talk.politics.misc/178299
+20news-bydate-train/comp.windows.x/66922
+20news-bydate-train/sci.med/58809
+20news-bydate-train/comp.os.ms-windows.misc/9763
+20news-bydate-train/sci.space/61229
+20news-bydate-train/talk.religion.misc/84071
+20news-bydate-train/talk.politics.guns/54684
+20news-bydate-train/talk.politics.guns/53315
+20news-bydate-train/talk.politics.misc/178405
+20news-bydate-train/talk.politics.guns/53297
+Time taken to fetch results: 12.5340821743
+
+
+planet satellite astronaut orbit
+
+Cosine Ranking
+20news-bydate-train/sci.space/59870
+20news-bydate-train/sci.space/59909
+20news-bydate-train/sci.space/59905
+20news-bydate-train/sci.space/59874
+20news-bydate-train/sci.space/59913
+20news-bydate-train/sci.space/60103
+20news-bydate-train/sci.space/60932
+20news-bydate-train/sci.space/59871
+20news-bydate-train/sci.space/59904
+20news-bydate-train/sci.space/60187
+BM25 Ranking
+20news-bydate-train/sci.space/59874
+20news-bydate-train/sci.space/59905
+20news-bydate-train/sci.space/59871
+20news-bydate-train/sci.space/60103
+20news-bydate-train/sci.space/59870
+20news-bydate-train/sci.space/59909
+20news-bydate-train/sci.space/59873
+20news-bydate-train/sci.space/61207
+20news-bydate-train/sci.space/59850
+20news-bydate-train/sci.space/61155
+Euclidean Ranking
+20news-bydate-train/comp.windows.x/67064
+20news-bydate-train/misc.forsale/76515
+20news-bydate-train/sci.med/59204
+20news-bydate-train/rec.motorcycles/104726
+20news-bydate-train/rec.motorcycles/104705
+20news-bydate-train/sci.med/58841
+20news-bydate-train/comp.windows.x/66966
+20news-bydate-train/comp.windows.x/67200
+20news-bydate-train/comp.sys.mac.hardware/50455
+20news-bydate-train/sci.space/59870
+Time taken to fetch results: 23.7800240517
+
+
+key encryption algorithm
+
+Cosine Ranking
+20news-bydate-train/sci.crypt/15195
+20news-bydate-train/sci.crypt/15200
+20news-bydate-train/sci.electronics/53569
+20news-bydate-train/sci.crypt/15429
+20news-bydate-train/sci.crypt/15329
+20news-bydate-train/sci.crypt/15255
+20news-bydate-train/sci.crypt/15219
+20news-bydate-train/sci.crypt/15285
+20news-bydate-train/sci.crypt/15246
+20news-bydate-train/sci.crypt/15183
+BM25 Ranking
+20news-bydate-train/sci.crypt/15252
+20news-bydate-train/sci.crypt/15245
+20news-bydate-train/sci.crypt/15246
+20news-bydate-train/sci.crypt/15188
+20news-bydate-train/sci.crypt/15290
+20news-bydate-train/sci.crypt/15193
+20news-bydate-train/sci.crypt/15219
+20news-bydate-train/sci.crypt/15183
+20news-bydate-train/sci.crypt/15670
+20news-bydate-train/sci.crypt/15195
+Euclidean Ranking
+20news-bydate-train/sci.electronics/53569
+20news-bydate-train/rec.motorcycles/102616
+20news-bydate-train/alt.atheism/53519
+20news-bydate-train/alt.atheism/51060
+20news-bydate-train/alt.atheism/52499
+20news-bydate-train/comp.windows.x/66322
+20news-bydate-train/comp.windows.x/66422
+20news-bydate-train/comp.graphics/38376
+20news-bydate-train/sci.med/59183
+20news-bydate-train/talk.politics.guns/53296
+Time taken to fetch results: 57.7915050983
+
+
+jesus bible christian jews
+
+Cosine Ranking
+20news-bydate-train/alt.atheism/52499
+20news-bydate-train/alt.atheism/53066
+20news-bydate-train/talk.religion.misc/83457
+20news-bydate-train/talk.religion.misc/84147
+20news-bydate-train/talk.religion.misc/82810
+20news-bydate-train/sci.crypt/15178
+20news-bydate-train/soc.religion.christian/20660
+20news-bydate-train/soc.religion.christian/21363
+20news-bydate-train/soc.religion.christian/21396
+20news-bydate-train/talk.politics.misc/178529
+BM25 Ranking
+20news-bydate-train/alt.atheism/53519
+20news-bydate-train/soc.religion.christian/20952
+20news-bydate-train/talk.religion.misc/84043
+20news-bydate-train/alt.atheism/52499
+20news-bydate-train/alt.atheism/51060
+20news-bydate-train/talk.religion.misc/83490
+20news-bydate-train/talk.religion.misc/83482
+20news-bydate-train/talk.religion.misc/82810
+20news-bydate-train/talk.religion.misc/84142
+20news-bydate-train/soc.religion.christian/20837
+Euclidean Ranking
+20news-bydate-train/rec.motorcycles/104496
+20news-bydate-train/talk.politics.misc/178483
+20news-bydate-train/sci.crypt/15178
+20news-bydate-train/rec.motorcycles/102616
+20news-bydate-train/sci.med/59183
+20news-bydate-train/sci.electronics/53569
+20news-bydate-train/talk.politics.mideast/76392
+20news-bydate-train/talk.religion.misc/83817
+20news-bydate-train/alt.atheism/52499
+20news-bydate-train/talk.politics.mideast/76391
+Time taken to fetch results: 72.2357780933
+
+wheel shaft motorcycle gear
+
+Cosine Ranking
+20news-bydate-train/rec.motorcycles/104290
+20news-bydate-train/rec.motorcycles/104726
+20news-bydate-train/rec.motorcycles/104639
+20news-bydate-train/rec.motorcycles/104536
+20news-bydate-train/rec.motorcycles/104387
+20news-bydate-train/rec.motorcycles/104814
+20news-bydate-train/misc.forsale/76187
+20news-bydate-train/rec.motorcycles/104569
+20news-bydate-train/rec.motorcycles/104841
+20news-bydate-train/rec.motorcycles/104497
+BM25 Ranking
+20news-bydate-train/rec.autos/102764
+20news-bydate-train/rec.motorcycles/104637
+20news-bydate-train/comp.windows.x/66871
+20news-bydate-train/rec.motorcycles/104569
+20news-bydate-train/rec.autos/102770
+20news-bydate-train/rec.motorcycles/104497
+20news-bydate-train/rec.motorcycles/104841
+20news-bydate-train/rec.motorcycles/104451
+20news-bydate-train/misc.forsale/76187
+20news-bydate-train/rec.motorcycles/104814
+Euclidean Ranking
+20news-bydate-train/rec.motorcycles/104582
+20news-bydate-train/rec.motorcycles/104548
+20news-bydate-train/rec.motorcycles/104625
+20news-bydate-train/rec.motorcycles/104947
+20news-bydate-train/rec.autos/102770
+20news-bydate-train/misc.forsale/76187
+20news-bydate-train/rec.autos/102764
+20news-bydate-train/talk.politics.mideast/76103
+20news-bydate-train/talk.politics.misc/176936
+20news-bydate-train/talk.politics.mideast/76067
+Time taken to fetch results: 13.1146659851
+
+
+food
+
+Cosine Ranking
+20news-bydate-train/sci.med/59165
+20news-bydate-train/sci.med/58941
+20news-bydate-train/talk.politics.misc/176960
+20news-bydate-train/talk.politics.mideast/76013
+20news-bydate-train/sci.med/58110
+20news-bydate-train/sci.med/59009
+20news-bydate-train/sci.med/58897
+20news-bydate-train/sci.med/58969
+20news-bydate-train/sci.med/59149
+20news-bydate-train/talk.religion.misc/84360
+BM25 Ranking
+20news-bydate-train/talk.politics.misc/176960
+20news-bydate-train/sci.med/58833
+20news-bydate-train/sci.med/59073
+20news-bydate-train/sci.med/58994
+20news-bydate-train/sci.med/59125
+20news-bydate-train/sci.med/58909
+20news-bydate-train/sci.med/59202
+20news-bydate-train/talk.religion.misc/84360
+20news-bydate-train/sci.med/59031
+20news-bydate-train/sci.med/59003
+Euclidean Ranking
+20news-bydate-train/talk.politics.mideast/76392
+20news-bydate-train/talk.politics.misc/178320
+20news-bydate-train/rec.autos/102769
+20news-bydate-train/sci.crypt/15382
+20news-bydate-train/sci.crypt/15389
+20news-bydate-train/talk.politics.mideast/76060
+20news-bydate-train/talk.politics.mideast/76266
+20news-bydate-train/sci.space/61049
+20news-bydate-train/talk.politics.misc/176960
+20news-bydate-train/talk.politics.mideast/76013
+Time taken to fetch results: 12.0009248257
+
