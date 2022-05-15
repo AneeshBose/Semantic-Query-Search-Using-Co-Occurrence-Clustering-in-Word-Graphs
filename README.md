@@ -19,6 +19,9 @@ All the below queries were run on the *20 newsgroups* dataset.
 
 Time taken to fetch results: 12.5340821743 seconds
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+
 | Query                            	| Word Graph with Cosine Ranking      	| BM25 Ranking                        	| Euclidean Ranking                               	|
 |----------------------------------	|-------------------------------------	|-------------------------------------	|-------------------------------------------------	|
 | planet satellite astronaut orbit 	| 20news-bydate-train/sci.space/59870 	| 20news-bydate-train/sci.space/59874 	| 20news-bydate-train/comp.windows.x/67064        	|
