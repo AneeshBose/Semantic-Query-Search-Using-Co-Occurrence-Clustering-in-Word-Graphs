@@ -1,4 +1,4 @@
-# Semantic Query Search Using Query Augmentation in Word Graphs
+# Semantic Query Search Using Co-Occurrence Clustering in Word Graphs
 
 
 ## Model Query Comparison  
